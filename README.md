@@ -23,4 +23,4 @@ To test tokens, I set refresh to expire in 3min and access in 30s. Which means >
 
 ### 3 - Open it on your browser at http://localhost:3000
 
-Send any criticisms you have my way. Here to learn. Not gonna cry.
+Send any criticisms you have my way. Here to learn. Not gonna cry. :smile:
